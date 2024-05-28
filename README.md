@@ -30,7 +30,9 @@ In the context of the Amazon co-purchase network dataset, various node importanc
 **Community detection analysis from the plot**
 
 •	From the network, we can conclude that a total of 27 communities were identified. This suggests that the network has a modular structure, with certain groups of nodes (i.e., products) being more interconnected with each other than with products in other communities. For example, product 8 is largely clustered, indicates it’s likely to be co-purchased, followed by 20 and 30. 
+
 •	The communities vary in size, with some consisting of many nodes and others with fewer. This could reflect different product categories, with larger communities possibly representing more popular or general product categories and smaller ones indicating niche market products.
+
 •	Inter community links are also observed which indicate that these products that serve as connectors or 'gateway' items are co-purchased with products from different categories.
 
 **Conclusion**
